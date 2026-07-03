@@ -1,0 +1,6 @@
+{
+  "name": "AI Recruitment & Talent Management System",
+  "description": "An AI-powered recruitment platform with resume parsing, candidate scoring, interview question generation, job optimization, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
